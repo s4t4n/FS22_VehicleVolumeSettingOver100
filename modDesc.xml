@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<modDesc descVersion="61">
+    <author>s4t4n, </author>
+    <version>0.0.0.1</version>
+    <!-- 02.12.2021 start -->
+    <title>
+        <de>Motorlautstärke Einstellung mehr als 100%</de>
+        <en>Enginesoundvolume settings more than 100%</en>
+    </title>
+    <description>
+        <de>Original ist die Fahzeiglautstärke auf max. 100% begrenzt, dieß wird hier aufgehoben.</de>
+        <en>Originally the vehicle volume is limited to a maximum of 100%, which is canceled here. </en>
+    </description>
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true" />
+    <extraSourceFiles>
+        <sourceFile filename=".lua" />
+        <sourceFile filename=".lua" />
+    </extraSourceFiles>
+
+    <actions>
+        
+	</actions>
+
+</modDesc>
